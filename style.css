@@ -452,6 +452,14 @@ Media QUERIES
   }
 }
 
+@media only screen and (max-width:405px){
+
+  .menu2{
+    height: 90px;
+  }
+}
+
+
 @media only screen and (max-width:393px){
 
   .bg{
