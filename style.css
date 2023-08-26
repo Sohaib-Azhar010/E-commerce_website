@@ -171,6 +171,10 @@ header{
   font-size: xx-large;
 }
 
+.featured_text h2{
+  font-family: 'Qwitcher Grypen', cursive;
+}
+
 .featured_text button{
   padding: 10px 20px;
   border: none;
